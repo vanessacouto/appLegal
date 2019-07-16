@@ -1,0 +1,6 @@
+{
+    "dburi": "mongodb+srv://dbadminuser:DzAQwKhkBljpxC58@cluster0-age8e.mongodb.net/test?retryWrites=true&w=majority",
+    "fbclientId": "XXXXXXXXXX",
+    "fbclientSecret": "XXXXXXXXXXXX"
+}
+
